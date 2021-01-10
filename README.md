@@ -1,4 +1,4 @@
-# css basic module for practice 
+# css module for practice 
 > css syntax
 
 > css text property
