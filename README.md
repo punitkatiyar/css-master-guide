@@ -1,7 +1,7 @@
 <span style='font-size:100px;'>&#8986;</span>
 
 # css module for practice 
-> css syntax
+> <a href="https://punitkatiyar.github.io/css/start-css.html">css syntax</a>
 
 > css text property
 
