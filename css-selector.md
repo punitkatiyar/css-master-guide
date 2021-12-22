@@ -10,7 +10,7 @@
 
 > group selector
 
-> CSS Combinators
+> CSS Combinators [>,~,+,space]
 
 > CSS Pseudo-classes
 
