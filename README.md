@@ -1,6 +1,6 @@
-<span style='font-size:100px;'>&#8986;</span>
 
-# CSS Core Module For Development 
+
+# CSS Core Module For Development <span style='font-size:100px;'>&#8986;</span>
 
 > <a href="https://punitkatiyar.github.io/css/start-css.html">css syntax</a>
 
