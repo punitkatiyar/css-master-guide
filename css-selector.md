@@ -9,3 +9,9 @@
 > attribute selector
 
 > group selector
+
+> CSS Combinators
+
+> CSS Pseudo-classes
+
+> CSS Pseudo-elements
