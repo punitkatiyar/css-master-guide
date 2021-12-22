@@ -24,6 +24,21 @@
 
 # CSS3 Module For Development <span style='font-size:100px;'>&#8986;</span>
 
+> text-shadow and box-shadow
+
+> border-radius
+
+> border-image
+
+> background-image
+
+> css 2d and 3d
+
+> css animation
+
+> css flex layout
+
+
 
 <hr>
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
