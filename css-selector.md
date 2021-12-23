@@ -10,8 +10,10 @@
 
 > group selector
 
-> CSS Combinators [>,~,+,space]
-
+> CSS Combinators [>,~,+,space] 
+<ul>
+  <li>Descendant Selector</li>
+</ul>
 > CSS Pseudo-classes
 
 > CSS Pseudo-elements
