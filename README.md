@@ -42,6 +42,8 @@
 
 >https://coolors.co/palettes/trending
 
+>https://www.w3schools.com/cssref/playit.asp?filename=playcss_filter&preval=none
+
 
 <hr>
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
