@@ -1,0 +1,9 @@
+.bg1{ background-color: red;}
+.bg2{ background-color: green;}
+.fl{ float: left;}
+.fr{ float: right;}
+.new{ float: left; margin-left: 1%;}
+.clr{ clear: both;}
+.col-2{ width: 49.50%; height: 100px; margin-top: 10px;}
+.col-3{ width: 32.65%; height: 100px; margin-top: 10px;}
+.col-4{ width: 24.25%; height: 100px; margin-top: 10px;}
