@@ -4,9 +4,12 @@
 - > ### CSS Syntax
 - > ### Type of CSS
 
+<hr>
+
 <ol>
   <li>Inline Type</li>
   <li>Internal Type</li>
   <li>External Type</li>
 </ol>
 
+<hr>
