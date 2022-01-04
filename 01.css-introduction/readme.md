@@ -21,4 +21,14 @@
   <li>External Type</li>
 </ol>
 
+### 🖥 TYPE OF Selectors 
+<ol>
+  <li>Tag Selector</li>
+  <li>Attribute Selector</li>
+  <li>class Selector</li>
+  <li>id Selector</li>
+</ol>
+
+## Difference between class and id ?
+
 <hr>
