@@ -32,3 +32,5 @@
 ## Difference between class and id ?
 
 <hr>
+
+<a href="/start-css.html">Click To show code</a>
