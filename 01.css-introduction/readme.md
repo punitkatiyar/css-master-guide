@@ -8,6 +8,13 @@
 
 <hr>
 
+### 🖥 CSS Syntax
+
+
+- > #### start with style attribute (style = " ") associated with html tag
+- > #### property name : Value or key : value == array
+- 
+### 🖥 TYPE OF CSS 
 <ol>
   <li>Inline Type</li>
   <li>Internal Type</li>
