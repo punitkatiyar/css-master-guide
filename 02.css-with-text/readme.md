@@ -6,7 +6,6 @@
 - color: ;
 - font-size: ;
 - font-family: ;
-- vertical-align: ;
 - letter-spacing: ;
 - word-spacing: ;
 - text-transform: ;
@@ -15,5 +14,6 @@
 - line-height: ;
 - font-weight: ;
 - text-indent: ;
+- vertical-align: ;
 - font: ;
 - white-space: ;
