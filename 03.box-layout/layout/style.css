@@ -1,0 +1,27 @@
+*{ margin: 0;}
+.bg{ background-color: whitesmoke;}
+.bg1{ background-color: royalblue;}
+.bg2{ background-color: tomato;}
+.bg3{ background-color: yellowgreen;}
+.bg4{ background-color: violet;}
+
+
+.fl{ float: left;}
+.fr{ float: right;}
+.new{ float: left; margin-left: 1%;}
+.clr{ clear: both;}
+
+.mb-1{ margin-bottom: 10px;}
+
+.row{ margin-bottom: 10px;}
+.col-4{ width: 24.25%; height: 250px;}
+
+
+
+.head{ height: 100px;}
+.nav{ height: 40px;}
+.banner{ height: 550px;}
+.mid{ min-height: 600px;}
+.mid-left{width:75%; min-height: 600px;}
+.mid-right{ width:24.25%; min-height: 600px;}
+.footer{ height: 80px;}
