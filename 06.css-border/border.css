@@ -1,0 +1,49 @@
+*{ margin: 0; box-sizing: border-box;}
+div{
+    width: 220px;
+    height: 220px;
+    background-color: tomato;
+    margin: 1%;
+    float: left;
+}
+.b1{
+    border: 5px;
+    border-style:solid;
+    border-color: royalblue;
+}
+.b2{
+    border:10px solid royalblue;
+}
+.b3{
+    border-left:10px solid royalblue;
+    border-right:10px solid royalblue;
+    border-top:10px solid greenyellow;
+    border-bottom:10px solid greenyellow;
+}
+.b4{
+    border:10px dashed royalblue;
+}
+.b5{
+    border:10px dotted royalblue;
+}
+.b6{
+    border:10px  double royalblue;
+}
+
+.b7{
+    /* 
+    top :left right
+    bottom : right left
+    */
+    border-radius:50% ;
+    border:10px solid royalblue;
+}
+.b8{
+    border-radius: 20px 50px 20px 50px;
+}
+.b9{
+    border-radius: 0px 0px 50px 0px;
+}
+.b10{
+    border-radius: 0px 50% 0px 50%;
+}
