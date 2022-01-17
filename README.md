@@ -49,8 +49,8 @@
 
 <style
   type="text/css">
-h1 {color:red;}
-p {color:#686e78;}
+h1 {color:royalblue;}
+p {color:#686e78; font-size:1.2rem;}
 </style>
 <p>okay</p>
 
