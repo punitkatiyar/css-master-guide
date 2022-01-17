@@ -50,7 +50,7 @@
 <style
   type="text/css">
 h1 {color:red;}
-p {color:blue;}
+p {color:#686e78;}
 </style>
 <p>okay</p>
 
