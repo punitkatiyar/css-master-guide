@@ -1,24 +1,24 @@
-# 🧑🏼‍💻 CSS Core Module For Development <span style='font-size:100px;'>🥇</span>
+# 🧑🏼‍💻 CSS Core Module For Development <span style='font-size:40px;'>🥇</span>
 
-> <a href="https://punitkatiyar.github.io/css/start-css.html">css syntax</a>
+- > <a href="https://punitkatiyar.github.io/css/start-css.html">css syntax</a>
 
-> css text property
+- > css text property
 
-> create article using html css
+- > create article using html css
 
-> text logo using css
+- > text logo using css
 
-> css box layout
+- > css box layout
 
-> css window 8 start menu
+- > css window 8 start menu
 
-> nested box layout
+- > nested box layout
 
-> css border
+- > css border
 
-> css position
+- > css position
 
-> css navigation
+- > css navigation
 
 # 🧑🏼‍💻 CSS3 Module For Development <span style='font-size:100px;'></span>
 
