@@ -1,6 +1,4 @@
-
-
-# 🧑🏼‍💻 CSS Core Module For Development <span style='font-size:100px;'></span>
+# 🧑🏼‍💻 CSS Core Module For Development <span style='font-size:100px;'>🥇</span>
 
 > <a href="https://punitkatiyar.github.io/css/start-css.html">css syntax</a>
 
