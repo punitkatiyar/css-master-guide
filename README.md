@@ -1,6 +1,6 @@
 
 
-# CSS Core Module For Development <span style='font-size:100px;'>&#8986;</span>
+# 🧑🏼‍💻 CSS Core Module For Development <span style='font-size:100px;'></span>
 
 > <a href="https://punitkatiyar.github.io/css/start-css.html">css syntax</a>
 
@@ -22,7 +22,7 @@
 
 > css navigation
 
-# CSS3 Module For Development <span style='font-size:100px;'>&#8986;</span>
+# 🧑🏼‍💻 CSS3 Module For Development <span style='font-size:100px;'></span>
 
 > text-shadow and box-shadow
 
@@ -38,7 +38,7 @@
 
 > css flex layout
 
-# ref website
+# 🧑🏼‍💻 ref website
 
 >https://coolors.co/palettes/trending
 
