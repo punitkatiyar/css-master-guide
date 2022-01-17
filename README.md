@@ -49,4 +49,11 @@
 <a href="https://punitkatiyar.github.io/">Back To Home Page</a>
 <hr>
 
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+<p>okay</p>
 
