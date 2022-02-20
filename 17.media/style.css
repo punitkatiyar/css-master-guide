@@ -1,0 +1,21 @@
+*{ margin: 0; padding: 0;}
+.clr{ clear: both;}
+.head{ background-color: royalblue;}
+.logo{ float: left; width: 15%; margin-left: 5%;}
+.logo a{ text-decoration: none; font-size: 2rem;}
+nav{ float: right; width: 75%; margin-right: 5%;}
+nav ul{ text-align: right;}
+nav ul li{ display: inline;}
+nav ul li a{ text-decoration: none; color: white; padding: 2%; line-height: 50px;}
+.menu{ float: right; display: none;}
+.menu:hover nav{display: block;background-color: tomato;}
+@media(max-width:750px)
+{
+    .logo{ width: 80%;}
+    .menu{ display: block;}
+    nav{ display: none;}
+    nav ul li{ display: block;}
+    
+    
+
+}
