@@ -1,7 +1,5 @@
 # CSS With Text 📰
 
-## css text property
-
 1. text-align:;
 
 2. color: ; 
