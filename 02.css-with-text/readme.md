@@ -2,7 +2,7 @@
 
 ## css text property
 
-1.text-align:;
+1. text-align:;
 
 2. color: ; 
 
@@ -22,12 +22,12 @@
 
 10. line-height: ;
 
-11.font-weight: ;
+11. font-weight: ;
 
-12.text-indent: ;
+<!-- 12. text-indent: ; -->
 
-13.vertical-align: ;
+13. vertical-align: ;
 
-14.font: ;
+14. font: ;
 
-15.white-space: ;
+15. white-space: ;
