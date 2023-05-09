@@ -1,16 +1,18 @@
 # box layout
 
->width :px %
+> width :px %
 
->height :px vh
+> height :px vh
 
->background : color-name | hex | rgb | hsl | rgba | hsla
+> background-color : color-name | hex | rgb | hsl | rgba | hsla
 
->background-image :url();
+> background-image :url();
 
 > float : left | right
 
 > clear : both
 
->margin :top | right | bottom | left
+> margin :top | right | bottom | left
+
+> padding :top | right | bottom | left
 
