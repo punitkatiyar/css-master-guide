@@ -77,11 +77,19 @@ h1 {
   
 **CSS functions are built-in functions that allow you to perform calculations, manipulate values, and apply complex effects to your styles. CSS functions take one or more input values and return a modified value that can be used in your styles.**
   
-## calc() - performs basic arithmetic operations on values and units.  
-  
+### 1.calc() - performs basic arithmetic operations on values and units.  
+
 ```
 width: calc(50% - 20px);  
 ```
+### 2.var() - allows you to use variables to define and reuse values.  
+  
+  
+  
+  
+  
+  
+  
   
 
 <hr>
