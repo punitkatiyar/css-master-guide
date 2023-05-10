@@ -74,6 +74,8 @@ h1 {
 <hr>
 
 ## CSS Function 
+  
+**CSS functions are built-in functions that allow you to perform calculations, manipulate values, and apply complex effects to your styles. CSS functions take one or more input values and return a modified value that can be used in your styles.**
 
 <hr>
 
