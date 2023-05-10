@@ -77,12 +77,59 @@ h1 {
   
 **CSS functions are built-in functions that allow you to perform calculations, manipulate values, and apply complex effects to your styles. CSS functions take one or more input values and return a modified value that can be used in your styles.**
   
-### 1.calc() - performs basic arithmetic operations on values and units.  
+### 1. calc() - performs basic arithmetic operations on values and units.  
 
 ```
 width: calc(50% - 20px);  
 ```
-### 2.var() - allows you to use variables to define and reuse values.  
+### 2. var() - allows you to use variables to define and reuse values.  
+  
+```
+    --primary-color: #007bff;
+   color: var(--primary-color);
+
+```
+### 3. rgb() / rgba() - defines a color using red, green, blue and optionally an alpha value.
+
+```
+     background-color: rgba(255, 0, 0, 0.5);
+```
+
+### 4. hsl() / hsla() - defines a color using hue, saturation, lightness and optionally an alpha value.
+
+```
+       color: hsl(120, 100%, 50%);
+```
+  
+### 5. url() - defines the location of an external resource such as an image or a font.
+
+```
+  background-image: url("background.png");
+```
+  
+### 6. attr() - retrieves the value of an HTML attribute and uses it in the style.
+
+```
+  content: attr(title);
+```
+  
+### 7. linear-gradient() / radial-gradient() - creates a gradient background using one or more colors.
+
+```
+   background-image: linear-gradient(to right, red, orange, yellow, green);
+```
+  
+### 8. min() / max() - returns the minimum or maximum value from a list of inputs.
+
+```
+     width: min(50%, 200px);
+```
+  
+### 9. clamp() - restricts a value between a minimum and maximum value
+
+```
+   font-size: clamp(16px, 2.5vw, 24px);
+```
   
   
   
