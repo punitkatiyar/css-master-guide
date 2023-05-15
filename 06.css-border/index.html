@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Border Example</title>
+    <style>
+        *{margin: 0; box-sizing: border-box;}
+
+        div{
+            /*  step 1 */
+            width: 200px;
+            height: 200px;
+            background-color: gold;
+            /* step 2 */
+            float: left;
+            margin: 1%;
+            /* step 3 */
+           
+        }
+        .b1{
+            border:10px;
+            border-style: solid;
+            border-color:royalblue;
+            
+        }
+        .b2{
+            border:20px;
+            border-style: double;
+            border-color:royalblue;
+          
+        }
+        .b2{
+            border:20px;
+            border-style: double;
+            border-color:royalblue;
+          
+        }
+        .b3{
+            /* short hand */
+            /* border-style: inset;  */
+            border: 10px inset ;
+
+        }
+        .b4{
+            border: 2px royalblue dashed;
+        }
+        .b5{
+            border-left: 30px royalblue solid;
+        }
+        .b6{
+            background-color: whitesmoke;
+            border-top: 30px royalblue solid;
+            border-right: 30px red solid;
+            border-bottom: 30px teal solid;
+            border-left: 30px orange solid;
+        }
+        .b7{
+            background-color: whitesmoke;
+            border-top: 30px royalblue solid;
+            border-right: 30px transparent solid;
+            border-bottom: 30px teal solid;
+            border-left: 30px transparent solid;
+        }
+        .b8{
+
+            border-radius: 50%;
+            background-color: whitesmoke;
+            border-top: 10px royalblue solid;
+            border-right: 10px red solid;
+            border-bottom: 20px teal solid;
+            border-left: 10px orange solid;
+        }
+        .b9{
+
+            border-radius: 50%;
+            border-radius: 50% 20px;
+            background-color: whitesmoke;
+            border-top: 10px royalblue solid;
+            border-right: 10px red solid;
+            border-bottom: 10px teal solid;
+            border-left: 10px orange solid;
+        }
+        .b10{
+
+            /* border-radius: 50%; */
+            border-radius: 50% 50% 0px 0px ;
+            background-color: whitesmoke;
+            border-top: 10px royalblue solid;
+            border-right: 10px red solid;
+            border-bottom: 60px teal solid;
+            border-left: 10px orange solid;
+        }
+        .b11{
+
+            /* border-radius: 50%; */
+            border-radius: 50% 0% 50% 50% ;
+            background-color: whitesmoke;
+            border-top: 10px royalblue solid;
+            border-right: 10px red solid;
+            border-bottom: 10px teal solid;
+            border-left: 10px orange solid;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="b1"></div>
+    <div class="b2"></div>
+    <div class="b3"></div>
+    <div class="b4"></div>
+    <div class="b5"></div>
+    <div class="b6"></div>
+    <div class="b7"></div>
+    <div class="b8"></div>
+    <div class="b9"></div>
+    <div class="b10"></div>
+    <div class="b11"></div>
+    <div class="b12"></div>
+    <div class="b13"></div>
+    <div class="b14"></div>
+    <div class="b15"></div>
+
+
+
+    
+</body>
+</html>
