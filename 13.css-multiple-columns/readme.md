@@ -1,17 +1,17 @@
 # css multiple column
 
-> column-count
+> ## column-count
 
-> column-gap
+> ## column-gap
 
-> column-rule-style
+> ## column-rule-style
 
-> column-rule-width
+> ## column-rule-width
 
-> column-rule-color
+> ## column-rule-color
 
-> column-rule
+> ## column-rule
 
-> column-span
+> ## column-span
 
-> column-width
+> ## column-width
