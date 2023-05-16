@@ -1,12 +1,12 @@
-CSS Position 
+# CSS Position 
 
-> static
+> ## static
 
-> relative
+> ## relative
 
-> absoute
+> ## absoute
 
-> fixed
+> ## fixed
 
-> sticky
+> ## sticky
 
