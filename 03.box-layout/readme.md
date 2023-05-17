@@ -1,22 +1,22 @@
 # Box Layout Using CSS 
 
-**< div > Block Element < /div >**
 
-<hr>
 
-> width :px %
 
-> height :px vh
 
-> background-color : color-name | hex | rgb | hsl | rgba | hsla
+> ## width :px %
 
-> background-image :url();
+> ## height :px vh
 
-> float : left | right
+> ## background-color : color-name | hex | rgb | hsl | rgba | hsla
 
-> clear : both
+> ## background-image :url();
 
-> margin :top | right | bottom | left
+> ## float : left | right
 
-> padding :top | right | bottom | left
+> ## clear : both
+
+> ## margin :top | right | bottom | left
+
+> ## padding :top | right | bottom | left
 
