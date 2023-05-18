@@ -13,3 +13,12 @@
 > animation-direction
 
 > animation-timing-function
+
+# from and to 
+
+```
+@keyframe sample{
+  form{}
+  to{}
+}
+```
