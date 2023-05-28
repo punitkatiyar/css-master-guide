@@ -177,6 +177,10 @@ width: calc(50% - 20px);
 >https://coolors.co/palettes/trending
 
 >https://www.w3schools.com/cssref/playit.asp?filename=playcss_filter&preval=none
+  
+> https://webcode.tools/
+  
+> https://animista.net/
 
 
 <hr>
