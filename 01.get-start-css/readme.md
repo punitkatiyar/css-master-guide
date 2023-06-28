@@ -35,4 +35,4 @@
 
 <a href="/start-css.html">Click To show code</a>
 
-<a href="https://punitkatiyar.github.io/css/01.css-introduction/start-css.html">Show Result</a>
+<a href="https://punitkatiyar.github.io/css-master-guide/01.get-start-css/start-css.html">Show Result</a>
