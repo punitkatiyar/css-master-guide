@@ -1,10 +1,10 @@
-# 🎨 CSS : cascading style sheet  language 
+# 🎨 CSS : Cascading Style Sheet Language 
 
-## used for presentation of markup language .
+## Used for Presentation Of Markup Language like html .
 
-- > ### CSS Introduction
-- > ### CSS Syntax
-- > ### Type of CSS
+- ### CSS Introduction
+- ### CSS Syntax
+- ### Type of CSS
 
 <hr>
 
