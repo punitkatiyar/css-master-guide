@@ -6,6 +6,10 @@
 
 > background-repeat: repeat | no-repeat 
 
-> background-position  : top | right | botton | left | center 
+> background-position  : top | right | botton | left | center
+
+# Use Multiple Background Image In CSS
+
+
 
 
