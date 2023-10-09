@@ -10,6 +10,8 @@
 
 # Use Multiple Background Image In CSS
 
+>  background: url(banner1.jpg) right bottom no-repeat, url(user.jpeg) left top repeat;
+
 
 
 
