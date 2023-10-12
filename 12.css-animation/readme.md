@@ -22,3 +22,11 @@
   to{}
 }
 ```
+
+## Example Of Animation 
+
+```
+  animation-name: example;
+  animation-duration: 4s;
+  animation-delay: 2s;
+```
