@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{ margin: 0;}
+        .profile{
+            width: 100%;
+            height: 600px;
+            background-color: aqua;
+            background-image: url(image/banner.jpg);
+            background-repeat: no-repeat;
+            background-size: 100% 600px;
+            background-position: top;
+            position: relative;
+        }
+        .profile h1{
+            position: absolute;
+            bottom: 10vh;
+            left: 30%;
+            color: white;
+            font-size:4rem;
+            text-shadow: 1px 1px 1px black;
+        }
+
+        .profile img{ 
+            width: 150px; 
+            height: 150px; 
+            position: absolute; 
+            top: 550px; 
+            left: 10%;
+            border: 2px solid black;
+            padding: 10px;
+            background-color: white;
+        }
+        .nav{ padding: 2%; background-color: tomato;}
+        .nav ul{ text-align: right;}
+        .nav ul li{ display: inline; padding: 1% 2%;}
+        .nav ul li a{ text-decoration: none; color: white; text-transform: uppercase;}
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <h1>Welcome to CSS Basic Banner</h1>
+        <img src="image/person_1.jpg" alt="person">
+
+    </div>
+    <div class="nav">
+        <ul>
+            <li><a href="#">link demo</a></li>
+            <li><a href="#">link demo</a></li>
+            <li><a href="#">link demo</a></li>
+            <li><a href="#">link demo</a></li>
+            <li><a href="#">link demo</a></li>
+        </ul>
+    </div>
+    
+</body>
+</html>
