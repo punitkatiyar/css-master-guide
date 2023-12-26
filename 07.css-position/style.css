@@ -1,0 +1,47 @@
+*{ margin:0 ; padding: 0; box-sizing: border-box;}
+.bg1{background-color: royalblue;}
+        .bg2{background-color: tomato;}
+        .bg3{background-color: teal;}
+        .bg4{background-color: hotpink;}
+
+.head{
+    width: 100%;
+    height: 10vh;
+    background-color:teal;
+    position: fixed;
+    top: 0;
+}
+.header{
+    width: 100%;
+    height: 10vh;
+    position: sticky;
+    top: 0;
+}
+.banner{
+    height: 90vh;
+    background-color: tomato;
+    
+}
+.menu{
+    height: 10vh;
+    background-color: #404040;
+}
+.mid{
+    height: 100vh;
+    background-color: gold;
+}
+.footer{
+    height: 8vh;
+    background-color: #404040;
+}
+
+.chat{ width: 150px; height: 150px; position: fixed; bottom: 15vh; right: 5%;
+    animation-name: chat;
+    animation-duration: 3s;
+}
+
+@keyframes chat{
+    from{ width:150px; height:150px;}
+    to{ width:100px; height:100px;}
+
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{ margin: 0; padding: 0; box-sizing: border-box;}
+        .bg1{background-color: royalblue;}
+        .bg2{background-color: tomato;}
+        .bg3{background-color: teal;}
+        .bg4{background-color: hotpink;}
+        .main{
+            width: 400px;
+            height: 400px;
+            background-color:#646669;
+            margin: 20vh auto;
+            position: relative;
+            border-radius: 50%;
+        }
+        .item{
+            width: 100px;
+            height: 100px;
+            position: absolute; 
+            border:5px solid white;
+            border-radius: 50%;
+            z-index: -1;
+        }
+        .p1{left:150px; bottom: 350px;}
+        .p2{ left: 350px; top: 150px;}
+        .p3{ top: 350px; left: 150px;}
+        .p4{ top: 150px; right: 350px;}
+
+
+
+
+
+    </style>
+</head>
+<body>
+    <div class="main">
+        <div class="item bg1 p1"></div>
+        <div class="item bg2 p2"></div>
+        <div class="item bg3 p3"></div>
+        <div class="item bg4 p4"></div>
+    </div>
+    
+</body>
+</html>
