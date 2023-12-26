@@ -1,0 +1,53 @@
+*{ margin: 0; padding: 0;}
+
+.head{
+    width: 100%;
+    height: 10vh;
+    background-color: gold;
+    position: relative;
+}
+#logo{ font-size: 2rem; color: white; text-decoration: none; position: absolute; left: 5%; top: 3vh;}
+
+
+.head ul{ position: absolute; right: 5%; top: 8vh; width: 70%; text-align: right;}
+
+.head ul li{ 
+    display: inline; 
+    padding: 1% 4%; 
+    background-color: tomato;
+    border-radius: 20px;
+    border:5px solid white;
+}
+.head ul li a{ color: white; text-decoration: none;}
+
+.head ul li:hover{ background-color: #404040;}
+
+
+
+
+
+
+
+.nav{
+    /* width: 100%;*/
+    /* height: 10vh; */
+    padding: 2% 5%;
+    background-color: #404040;
+    margin-bottom: 1vh;
+}
+.nav a{ 
+    text-decoration: none; 
+    color: white;
+    text-transform: capitalize;
+    margin-right: 2%;
+
+}
+
+.nav ul li{list-style: none; display: inline;}
+.nav ul li a{ color: gold; font-weight: 400;}
+
+.nav-block{ width: 20%; padding: 2%; background-color: tomato; margin-bottom: 1vh;}
+
+.nav-block a{ display: block; background-color: white; margin-bottom: 1vh; padding: 5%; text-decoration: none; color: #404040;}
+
+.nav-block ul li{ list-style: none;}
