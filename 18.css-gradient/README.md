@@ -1,4 +1,4 @@
-# Gradients
+# CSS Gradients
 
 ## Linear Gradients
 
