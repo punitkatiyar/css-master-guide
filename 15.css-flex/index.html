@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{ margin: 0; box-sizing: border-box;}
+        .container {
+                padding: 2%;
+                display: flex; /* or inline-flex */
+                
+                /* flex-direction: column-reverse; */
+                /* flex-wrap: wrap-reverse; */
+                
+                flex-flow: row wrap;
+            }
+        .col{ width: 19%; height: 30vh; border: 1px solid black; background-color: aliceblue;}
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="col"><h1>1</h1></div>
+        <div class="col"><h1>2</h1></div>
+        <div class="col"><h1>3</h1></div>
+        <div class="col"><h1>4</h1></div>
+        <div class="col"><h1>5</h1></div>
+        <div class="col"><h1>6</h1></div>
+    </div>
+    
+</body>
+</html>
