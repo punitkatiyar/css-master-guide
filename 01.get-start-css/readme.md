@@ -9,7 +9,7 @@
 
 
 - > #### start with style attribute (style = " ") associated with html tag
-- > #### property name : Value or key : value == array
+- > #### property name : Value or key : value 
 - 
 ### 🖥 TYPE OF CSS 
 <ol>
