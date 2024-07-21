@@ -11,9 +11,9 @@
 - > #### start with style attribute (style = " ") associated with html tag
 - > #### property name : Value or key : value 
 - 
-### 🖥 TYPE OF CSS 
+### 🖥 Method OF CSS Implementation  
 <ol>
-  <li>Inline Type</li>
+  <li>Inline </li>
   <li>Internal Type</li>
   <li>External Type</li>
 </ol>
