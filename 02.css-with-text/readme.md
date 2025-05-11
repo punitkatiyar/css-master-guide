@@ -22,10 +22,5 @@
 
 11. font-weight: ;
 
-<!-- 12. text-indent: ; -->
+12. font: ;
 
-13. vertical-align: ;
-
-14. font: ;
-
-15. white-space: ;
