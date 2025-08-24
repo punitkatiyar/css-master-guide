@@ -9,9 +9,9 @@
 ### 🖥 CSS Syntax
 
 
-- > #### start with style attribute (style = " ") associated with html tag
-- > #### property name : Value or key : value 
-- 
+-  #### start with style attribute (style = " ") associated with html tag
+-  #### property name : Value or key : value
+
 ### 🖥 Method OF CSS Implementation  
 <ol>
   <li>Inline </li>
