@@ -23,7 +23,7 @@
 
 ## Internal Style Sheets: 
 
-**This method allows you to define the styles within the < head > section of your HTML document, using the < style > tag. This method is useful when you want to apply styles to a specific page only.**
+**This method allows you to define the styles within the < head > section of your HTML document,      using the < style > tag. This method is useful when you want to apply styles to a specific page only.**
 
 ```
 <head>
