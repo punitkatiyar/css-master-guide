@@ -1,4 +1,4 @@
-<pre>
+```
 *{ margin: 0; box-sizing: border-box;}
 .wrapper{ width: 80%; margin: auto;}
 .mb{ margin-bottom: 1vh;}
@@ -28,4 +28,4 @@
 }
 
 }
-<pre>
+```
