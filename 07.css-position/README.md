@@ -1,9 +1,13 @@
-# css position
+# 🤖 CSS Position
 
-> default div : static
+> Default div : **static**
 
-> parent : relative 
+> Parent : **relative** 
 
-> child : absolute 
+> Child : **absolute** 
 
-> fixed : self 
+> Self : **fixed**
+
+> After Scroll **sticky**
+
+  
