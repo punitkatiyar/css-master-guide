@@ -18,7 +18,7 @@
 
 > border-radius
 
-> corner-shape: scoop
+> corner-shape: scoop , bevel
 
 > border-image
  
