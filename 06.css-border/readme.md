@@ -1,21 +1,26 @@
 # CSS Border Property
 
-> ## border
+> border
 
-> ## border-style
+> border-style
 
-> ## border-color
+> border-color
 
-> ## border-top
+> border-top
 
-> ## border-right
+> border-right
 
-> ## border-bottom
+> border-bottom
 
-> ## border-left
+> border-left
 
-> ## border-radius 
+## CSS Border Radius with Corner Shape 
 
-> ## border-image
+> border-radius
+
+> corner-shape: scoop
+
+> border-image
+ 
 
 
