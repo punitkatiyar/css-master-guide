@@ -28,7 +28,7 @@
 
 > corner-shape: round
 
-> > corner-shape: superellipse(1) // 0 ,   
+> corner-shape: superellipse(1) // 0 ,   
 
 > border-image
  
