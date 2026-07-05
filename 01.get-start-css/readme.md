@@ -12,12 +12,12 @@
 -  #### start with style attribute (style = " ") associated with html tag
 -  #### property name : Value or key : value
 
-### 🖥 Method OF CSS Implementation  
-<ol>
-  <li>Inline </li>
-  <li>Internal Type</li>
-  <li>External Type</li>
-</ol>
+### Ways to Apply CSS
+
+- Inline
+- Internal Type
+- External Type
+- Import CSS
 
 ###  CSS Selectors
 
