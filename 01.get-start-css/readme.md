@@ -7,6 +7,7 @@
 ## Real-World Analogy
 
 > Without CSS, websites look plain and unstyled.
+
 > Before Start Think of building a house:
 
 - HTML = Bricks, walls, doors (Structure)
