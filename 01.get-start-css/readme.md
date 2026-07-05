@@ -19,16 +19,22 @@
   <li>External Type</li>
 </ol>
 
-### 🖥 TYPE OF Selectors 
-<ol>
-  <li>Tag Selector</li>
-  <li>Attribute Selector</li>
-  <li>class Selector</li>
-  <li>id Selector</li>
-</ol>
+###  CSS Selectors
 
-## Difference between class and id ?
+- Universal Selector
+- Element Selector
+- Class Selector
+- ID Selector
+- Group Selector
+- Descendant Selector
+- Child Selector
+- Adjacent Selector
+- General Sibling
+- Attribute Selector
+- Pseudo Classes
+- Pseudo Elements
 
+  
 <hr>
 
 <a href="/start-css.html">Click To show code</a>
