@@ -4,6 +4,16 @@
 
 **CSS stands for Cascading Style Sheets. It is a language used to describe the presentation and formatting of HTML (Hypertext Markup Language) documents, which are commonly used for creating websites and web applications. CSS is used to control how elements on a webpage are displayed, including their layout, colors, fonts, and spacing.**
 
+## Real-World Analogy
+
+> Think of building a house:
+
+- HTML = Bricks, walls, doors (Structure)
+- CSS = Paint, furniture, decoration (Design)
+- JavaScript = Electricity, switches, automation (Behavior)
+
+> Without CSS, websites look plain and unstyled.
+
 ## Ways to Apply CSS
 
 - Inline
