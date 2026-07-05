@@ -6,20 +6,19 @@
 
 <hr>
 
-### 🖥 CSS Syntax
+## CSS Syntax
 
+-  start with style attribute **style = " "** associated with html tag
+-  property name : Value or key : value
 
--  #### start with style attribute (style = " ") associated with html tag
--  #### property name : Value or key : value
-
-### Ways to Apply CSS
+## Ways to Apply CSS
 
 - Inline
 - Internal Type
 - External Type
 - Import CSS
 
-###  CSS Selectors
+## CSS Selectors
 
 - Universal Selector
 - Element Selector
