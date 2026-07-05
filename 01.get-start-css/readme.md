@@ -6,13 +6,14 @@
 
 ## Real-World Analogy
 
-> Think of building a house:
+> Without CSS, websites look plain and unstyled.
+> Before Start Think of building a house:
 
 - HTML = Bricks, walls, doors (Structure)
 - CSS = Paint, furniture, decoration (Design)
 - JavaScript = Electricity, switches, automation (Behavior)
 
-> Without CSS, websites look plain and unstyled.
+
 
 ## Ways to Apply CSS
 
